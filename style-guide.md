@@ -1,0 +1,21 @@
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+-   Mobile: 375px
+-   Desktop: 1440px
+
+## Colors
+
+## Typography
+
+### Body Copy
+
+-   Font size (paragraph): 16px
+
+### Font
+
+-   Family: [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
+-   Weights: 500, 800
